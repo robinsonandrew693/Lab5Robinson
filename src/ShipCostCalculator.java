@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task1 {
+public class ShipCostCalculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
